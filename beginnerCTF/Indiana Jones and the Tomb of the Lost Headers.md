@@ -10,7 +10,7 @@
 >Note: Flag NOT in standard format. Wrap answer with MONSEC{}
 
 ### File(s) Attached:
-[the_TOMB]
+[the_TOMB](https://github.com/arifeld/monsec-writeups/blob/c31de274ad7fb63ea82a9290730081e4f308c5d4/beginnerCTF/files/the_TOMB)
 
 ### Solution:
 The attached file is missing a header (first few bytes of the hex dictating the type of file), making Windows unable to open the file.
