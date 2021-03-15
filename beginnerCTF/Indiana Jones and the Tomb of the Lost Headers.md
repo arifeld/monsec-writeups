@@ -1,4 +1,6 @@
-**Type:** Indiana Jones and the tomb of the lost headers
+**Name:** Indiana Jones and the Tomb of the Lost Headers
+
+**Type:** Forensics
 
 **Difficulty:** Easy
 
