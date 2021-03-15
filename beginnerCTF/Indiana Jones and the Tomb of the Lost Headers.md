@@ -18,6 +18,7 @@ The attached file is missing a header (first few bytes of the hex dictating the 
 We have to find the type of file and add the header ourselves.
 
 Two ways of determining the file type:
+
 **1)** Inspecting the hex - there are multiple references to `source/flag.png`. The `source/` tells us there is a folder inside the file, implying it is a compressed folder.
 
 **2)** Using in-built Linux command `file`. Running `file the_TOMB` automatically determines the type of file (even without the header) - which returns that the file is a zip folder.
