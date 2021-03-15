@@ -40,3 +40,11 @@ Using the above properties, we can get rid of the `k`:
 Now, if we can can guess parts of either `A` or `B`, we can do `A ^ B ^ (part of A or B)` to find part of the other plaintext. From there we can attempt to find the entirity of one string.
 
 Once we have one string, we can evaluate `A' ^ A` which will give us the encryption key (and the flag).
+
+### Useful Tools:
+
+[Auto Cracker](https://github.com/yhuag/Crib-Dragging-Auto-Cracker)
+
+[Crib Drag Script (no longer maintained)](https://github.com/SpiderLabs/cribdrag)
+
+[Crib Drag Calculator Online](https://toolbox.lotusfa.com/crib_drag/)
